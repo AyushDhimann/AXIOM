@@ -58,10 +58,3 @@ Start the development server by running:
 ```bash
 npx next dev --port 80
 ```
-
-## Team members
-
-#### Ayush Dhiman
-#### Adarsh Kumar Gupta
-####
-####
