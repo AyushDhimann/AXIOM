@@ -6,7 +6,7 @@ Axiom is a dynamic platform designed to help undergraduates and freshers prepare
 
 ---
 
-# Demo on YouTube
+## Demo on YouTube
 
 [![Watch the video](https://img.youtube.com/vi/v3G2es28w6M/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh2jXEjD3XY)
 
@@ -39,7 +39,6 @@ Navigate to the project directory and run:
 ```bash
 npm install
 ```
-
 
 
 ### 4. Create Environment File
